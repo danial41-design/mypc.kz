@@ -1,0 +1,58 @@
+
+.navbar-nav .nav-link.active {
+    color: rgb(152, 148, 148);
+}
+.navbar-brand img {
+    height: 35px;
+}
+.navbar-toggler {
+    background-color:rgb(152, 148, 148) ;
+    
+}
+.card-img-top {
+    height: 200px;
+}
+body {
+    background: #fff url(https://www.wallpaperflare.com/static/697/387/671/gradient-blue-green-hd-wallpaper.jpg) center bottom/cover no-repeat padding-box;
+}
+.navbar.navbar-expand-lg.bg-body-tertiary.bg-dark{
+ padding-bottom: 0em;
+}
+.d-flex.mx-5 {
+   padding-left: 850px;
+}
+.tix {
+    height: 35px;
+}
+.bdvid {
+    height: 70vh;
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.bdvid video {
+    height: 70vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: 1;
+}
+.video-text{
+    z-index: 2;
+    color: rgb(194, 141, 116);
+    padding-top: 300px;
+}
+.container-fluid.pt-5 {
+    justify-content: space-between;
+    display: inline;
+}
+.card.d-flex.text-bg-primary.mb-3.pt-5 {
+display: inline;
+}
+.video-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
